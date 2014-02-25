@@ -20,15 +20,15 @@
     "url": "https://github.com/github/hubot.git"
   },
   "dependencies": {
-    "hubot": ">= 2.6.0 < 3.0.0",
-    "hubot-scripts": ">= 2.5.0 < 3.0.0",
-    "hubot-irc": "~0.1.20",
-    "cheerio": "0.10.7",
+    "hubot": ">=2.7.1",
+    "hubot-scripts": ">=2.5.8",
+    "hubot-irc": "~0.1.27",
+    "cheerio": "0.13.1",
     "soupselect": "0.2.0",
-    "htmlparser": "1.7.6",
-    "xml2js": "0.4.0",
-    "flip": "0.1.0",
-    "underscore": "1.5.2",
+    "htmlparser": "1.7.7",
+    "xml2js": "0.4.1",
+    "flip": "0.1.1",
+    "underscore": "1.6.0",
     "underscore.string": "2.3.3"
   },
   "engines": {
